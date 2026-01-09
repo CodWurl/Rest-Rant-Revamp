@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "dotenv": "^17.2.3",
+    "dotenv-extended": "^2.9.0",
+    "express": "^5.2.1",
     "force": "^0.0.3"
   }
 }
